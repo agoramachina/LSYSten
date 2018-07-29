@@ -15,7 +15,7 @@
    id="svg4443"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="dcs_model_layers.svg">
+   sodipodi:docname="dcs_model.svg">
   <defs
      id="defs4445">
     <marker
@@ -207,10 +207,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="-62.412986"
+     inkscape:cx="-238.12727"
      inkscape:cy="148.6234"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="2048"
      inkscape:window-height="1076"
@@ -257,14 +257,13 @@
      inkscape:label="Environment"
      style="display:inline">
     <rect
-       transform="translate(34.002937,-60.98383)"
        style="display:inline;opacity:1;fill:#00ff00;fill-opacity:0.19607843;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4624"
        width="224.25388"
-       height="269.71072"
-       x="32.853882"
-       y="101.38007"
-       ry="33.9286"
+       height="253.28215"
+       x="66.856819"
+       y="56.824814"
+       ry="31.861948"
        inkscape:export-xdpi="78.325798"
        inkscape:export-ydpi="78.325798" />
     <path
